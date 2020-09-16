@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './testimonials.css';
+import styles from './Testimonials.css';
 
 import image1 from './images/1.jpg';
 import image2 from './images/2.jpg';

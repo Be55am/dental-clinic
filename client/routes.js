@@ -23,7 +23,7 @@ if (process.env.NODE_ENV !== 'production') {
   require('./modules/Testimonial/pages/TestimonialListPage/TestimonialListPage');
   require('./modules/Testimonial/pages/TestimonialDetailPage/TestimonialDetailPage');
   require('./modules/Patient/pages/PatientListPage/PatientListPage');
-  require('./modules/patient/pages/PatientDetailPage/PatientDetailPage');
+  require('./modules/Patient/pages/PatientDetailPage/PatientDetailPage');
   require('./modules/Appointment/Appointment');
   require('./modules/CMSPage/pages/CMSPageListPage/CMSPageListPage');
   require('./modules/CMSPage/pages/CMSPageDetailPage/CMSPageDetailPage');

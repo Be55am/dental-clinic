@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import * as CMSPageController from '../controllers/cmsPage.controller';
+import * as CMSPageController from '../controllers/CMSPage.controller';
 
 const router = new Router();
 
